@@ -1,0 +1,49 @@
+.hero__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 20px;
+  }
+  
+  .hero__text {
+    max-width: 50%;
+  }
+  
+  .hero__text h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .hero__text p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: rgb(80, 80, 80);
+    line-height: 2rem;
+  }
+  
+  .hero__image {
+    max-width: 40%;
+    border-radius: 15px;
+    box-shadow: 0px 16px 20px rgba(17, 12, 12, 0.15);
+  }
+  
+  .hero__image img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+  }
+  
+
+  .button__container {
+    padding-left: 25px;  
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: rgb(80, 80, 80);
+    margin-top: 20px;
+  }
+  

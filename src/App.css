@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+:root {
+  --primary-color: #5271FF;
+  --secondary-color: #3a59e2;
+  --heading-color: #0b2727;
+  --text-color: #6e7074;
+  --font-name: "Montserrat", sans-serif;
+  --subtitle-font-name: "Island Moments", cursive;
+}
+h1{
+  color: var(--heading-color);
+}
 
 .App-logo {
   height: 40vmin;
