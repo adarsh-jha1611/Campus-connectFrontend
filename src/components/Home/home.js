@@ -29,7 +29,7 @@ const Home = () => {
           In addition, Campus Connect offers a comprehensive events section where students and faculty can discover and participate in various campus activities, workshops, seminars, and more.
         </p>
         <p>
-          We hope that Campus Connect enhances the learning experience and fosters a sense of community within your institution. Enjoy exploring the platform and make the most out of your campus life!
+          We hope that Campus Connect enhances the learning experience and fosters a sense of community within your institution. Enjoy exploring the platform and make the most out of your campus life.
         </p>
       </div>
       <div className="hero__image">
